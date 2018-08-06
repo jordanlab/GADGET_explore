@@ -1,0 +1,807 @@
+Names,Fstat,p.value,q.value,AFR,EUR,AMR,SAS,EAS,medFilter
+Asparaginase hypersensitivity in acute lymphoblastic leukemia.txt,585.1, < 5e-324, < 5e-324,0,1,0,1,0,1
+Aspirin hydrolysis plasma.txt,5, < 5e-324, < 5e-324,0,0,0,0,0,1
+Black vs. blond hair color.txt,719.2, < 5e-324, < 5e-324,4,1,3,2,3,1
+Black vs. red hair color.txt,625.5, < 5e-324, < 5e-324,4,1,3,2,3,1
+Conduct disorder interaction.txt,5.8, < 5e-324, < 5e-324,1,1,1,1,2,1
+Crohns disease and celiac disease.txt,566, < 5e-324, < 5e-324,3,2,2,1,1,1
+Diabetes gestational.txt,592.6, < 5e-324, < 5e-324,2,1,1,1,1,1
+Diabetic kidney disease.txt,577, < 5e-324, < 5e-324,2,1,1,1,1,1
+Diisocyanate-induced asthma.txt,2315.9, < 5e-324, < 5e-324,24,14,18,17,20,0
+Fetal hemoglobin levels.txt,515.3, < 5e-324, < 5e-324,2,2,2,2,2,1
+Hair color.txt,1000.3, < 5e-324, < 5e-324,2,1,2,2,2,1
+Idiopathic pulmonary fibrosis.txt,4.9, < 5e-324, < 5e-324,1,1,1,1,1,1
+Immunoglobulin A.txt,515.8, < 5e-324, < 5e-324,4,1,1,2,2,1
+Methotrexate phramacokinetics acute lymphoblastic leukemia.txt,898.5, < 5e-324, < 5e-324,2,4,4,4,3,1
+Neuritic plaque.txt,5, < 5e-324, < 5e-324,0,0,0,0,0,1
+Obesity-related traits.txt,2172.1, < 5e-324, < 5e-324,113,89,86,92,96,1
+Optic disc area.txt,586.2, < 5e-324, < 5e-324,5,4,4,4,3,1
+Perceived skin darkness.txt,640.4, < 5e-324, < 5e-324,2,1,2,2,2,1
+Pulmonary function interaction.txt,4.8, < 5e-324, < 5e-324,9,10,9,9,9,0
+Recalcitrant atopic dermatitis.txt,529.4, < 5e-324, < 5e-324,2,2,2,2,1,1
+Schizophrenia.txt,663.3, < 5e-324, < 5e-324,176,172,171,170,169,0
+Skin colour saturation.txt,774.4, < 5e-324, < 5e-324,0,0,0,0,0,1
+Type 2 diabetes nephropathy.txt,526.3, < 5e-324, < 5e-324,1,1,1,1,0,1
+Upper aerodigestive tract cancers.txt,481.6,3.80E-308,3.10E-305,2,0,1,1,2,1
+Lobe size.txt,479.9,2.60E-307,2.10E-304,0,0,1,1,1,1
+Blue vs. green eyes.txt,477,6.90E-306,5.60E-303,0,0,0,0,0,1
+Clozapine-induced agranulocytosis.txt,466,1.90E-300,1.60E-297,2,2,2,2,1,1
+Glycerophospholipid levels.txt,449.2,5.00E-292,4.00E-289,14,10,9,10,10,0
+Prostate cancer early onset.txt,448.4,1.30E-291,1.10E-288,3,1,2,2,1,1
+IgG levels.txt,430.8,1.20E-282,1.00E-279,2,1,1,1,2,1
+Immunoglobulin G index levels in multiple sclerosis.txt,415.2,1.40E-274,1.10E-271,0,0,0,0,0,1
+Glycemic traits pregnancy.txt,405.1,2.50E-269,2.00E-266,2,3,3,2,2,1
+Bone mineral density paediatric skull.txt,404.9,3.40E-269,2.80E-266,7,6,6,5,5,1
+Primary tooth development number of teeth.txt,401.2,3.00E-267,2.40E-264,4,3,3,4,4,1
+Alcoholism alcohol use disorder factor score.txt,396.9,6.00E-265,4.80E-262,3,5,4,5,4,1
+Progression free survival in metastatic colorectal cancer CAPOX-B vs CAPOX-B plus cetuximab.txt,395.4,3.70E-264,2.90E-261,1,0,0,0,0,1
+Type 2 diabetes.txt,393.5,3.70E-263,2.90E-260,43,42,42,45,46,0
+Tumor biomarkers.txt,392.6,1.10E-262,8.80E-260,1,0,0,1,2,1
+Word reading.txt,383.2,1.20E-257,1.00E-254,4,7,6,5,5,1
+Urate levels.txt,373.4,2.30E-252,1.80E-249,23,26,25,26,28,0
+Circulating myeloperoxidase levels serum.txt,368.8,7.20E-250,5.70E-247,2,0,1,1,1,1
+Nicotine dependence.txt,366.3,1.80E-248,1.40E-245,0,1,1,0,0,1
+Menarche and menopause age at onset.txt,356.6,3.90E-243,3.10E-240,1,0,0,0,0,1
+Amyotrophic lateral sclerosis.txt,350.5,9.10E-240,7.10E-237,6,3,4,4,4,1
+Airway responsiveness in chronic obstructive pulmonary disease.txt,346.2,2.40E-237,1.80E-234,0,0,0,0,0,1
+Non-small cell lung cancer.txt,345.9,3.10E-237,2.40E-234,0,1,0,1,0,1
+Fractional exhaled nitric oxide childhood.txt,345.1,9.00E-237,7.00E-234,1,1,1,1,1,1
+Myopia pathological.txt,340.4,4.10E-234,3.10E-231,3,2,2,2,3,1
+Blood and toenail selenium levels.txt,335,4.10E-231,3.20E-228,2,1,1,2,2,1
+QT interval interaction.txt,334.5,8.50E-231,6.60E-228,13,11,11,11,11,0
+Wilms tumor.txt,332.7,8.50E-230,6.60E-227,1,0,0,0,0,1
+Breast cancer survival.txt,326.7,2.10E-226,1.60E-223,2,1,0,0,0,1
+Waist-to-hip ratio adjusted for body mass index.txt,326.7,2.10E-226,1.60E-223,21,23,21,23,25,0
+Lentiform nucleus volume.txt,324.4,4.50E-225,3.40E-222,1,2,2,2,3,1
+Renal function-related traits urea.txt,320.9,4.50E-223,3.40E-220,2,0,1,1,2,1
+Thyroid peroxidase antibody levels.txt,319.3,3.50E-222,2.70E-219,0,0,0,0,0,1
+Blood pressure measurement cold pressor test.txt,319.3,3.90E-222,3.00E-219,0,0,0,0,1,1
+Leprosy.txt,317.5,3.90E-221,3.00E-218,7,9,9,10,9,0
+Hematology traits.txt,315.7,4.70E-220,3.60E-217,2,4,3,3,3,1
+Visceral adipose tissuesubcutaneous adipose tissue ratio.txt,312.5,3.30E-218,2.50E-215,7,9,9,8,9,0
+Waist circumference.txt,312.3,4.20E-218,3.20E-215,7,5,5,5,5,1
+Bone mineral density.txt,309.6,1.50E-216,1.10E-213,36,35,34,37,36,0
+Vertical cup-disc ratio.txt,308.2,9.60E-216,7.30E-213,4,2,2,2,2,1
+Forced expiratory volume in 1 second environmental interaction.txt,302.3,2.50E-212,1.90E-209,2,1,1,2,3,1
+Homeostasis model assessment of beta-cell function interaction.txt,291.2,9.40E-206,7.10E-203,4,3,3,2,3,1
+Triglycerides.txt,287.8,8.60E-204,6.50E-201,11,13,13,15,14,0
+Cholesterol total.txt,286.1,9.20E-203,6.90E-200,19,20,19,21,20,0
+Blond vs. brown hair color.txt,286,1.00E-202,7.60E-200,0,0,0,0,0,1
+Attention deficit hyperactivity disorder time to onset.txt,285.4,2.30E-202,1.70E-199,4,4,4,5,5,1
+Type 1 diabetes and autoimmune thyroid diseases.txt,285.3,2.70E-202,2.00E-199,1,1,2,1,3,1
+Bone properties heel.txt,284.8,5.50E-202,4.10E-199,2,2,2,2,3,1
+Subcortical brain region volumes.txt,282.3,1.70E-200,1.30E-197,1,3,2,2,1,1
+Hypothyroidism.txt,282,2.50E-200,1.90E-197,7,5,5,5,6,1
+Brugada syndrome.txt,281.5,4.90E-200,3.70E-197,0,1,1,1,0,1
+QRS duration.txt,276.6,4.50E-197,3.30E-194,4,6,5,6,5,1
+Skin sensitivity to sun.txt,272.4,1.40E-194,1.10E-191,0,0,0,0,0,1
+Hippocampal volume.txt,270.1,3.70E-193,2.80E-190,5,4,4,4,4,1
+Sexual dimorphism in anthropometric traits.txt,269.8,5.90E-193,4.40E-190,5,5,5,6,6,1
+Male fertility.txt,267.9,8.10E-192,6.00E-189,0,0,0,0,0,1
+Non-albumin protein levels.txt,266.6,5.00E-191,3.70E-188,2,0,1,1,1,1
+Resistin levels.txt,265.2,3.60E-190,2.60E-187,2,0,0,1,1,1
+Glycemic traits.txt,265.1,4.10E-190,3.00E-187,0,0,0,0,0,1
+Urinary metabolites H-NMR features.txt,258,8.40E-186,6.10E-183,2,5,5,5,5,1
+Chronic myeloid leukemia.txt,254.8,8.20E-184,6.00E-181,2,0,1,1,2,1
+Frontotemporal dementia.txt,253.6,4.10E-183,3.00E-180,2,3,4,4,4,1
+Pulmonary emphysema.txt,252.9,1.10E-182,8.30E-180,2,2,2,2,2,1
+Serum total protein level.txt,253,1.10E-182,8.10E-180,1,2,2,2,2,1
+Serum tamsulosin hydrochloride concentration.txt,252.3,2.90E-182,2.10E-179,1,2,2,1,2,1
+Overweight status.txt,252,4.50E-182,3.30E-179,1,0,0,0,0,1
+Plasma plasminogen activator levels.txt,251.3,1.20E-181,9.10E-179,4,4,3,3,3,1
+Gamma glutamyl transpeptidase.txt,249.8,1.00E-180,7.60E-178,0,0,0,0,0,1
+Allergic sensitization.txt,249.1,2.80E-180,2.00E-177,7,10,9,9,8,0
+Brain structure.txt,248,1.30E-179,9.90E-177,2,1,1,0,0,1
+Glioma high-grade.txt,244.7,1.40E-177,1.00E-174,4,3,3,3,1,1
+Prostate cancer.txt,244.3,2.40E-177,1.70E-174,19,21,21,21,20,0
+Seasonality.txt,243.6,7.20E-177,5.20E-174,3,3,3,3,2,1
+Thyroid hormone levels.txt,242.4,4.10E-176,3.00E-173,8,11,10,11,8,0
+Gene methylation in lung tissue.txt,239.3,3.40E-174,2.40E-171,1,0,0,0,0,1
+Rheumatoid arthritis.txt,238.6,9.00E-174,6.40E-171,29,30,31,29,32,0
+Biochemical measures.txt,238.5,1.00E-173,7.30E-171,3,1,2,2,2,1
+Acute lymphoblastic leukemia childhood.txt,237.8,3.00E-173,2.10E-170,5,4,5,5,5,1
+Blood pressure measurement low sodium intervention.txt,235.5,7.90E-172,5.60E-169,1,0,0,0,0,1
+Cerivastatin-induced rhabdomyolysis.txt,234.9,2.10E-171,1.50E-168,2,1,1,2,2,1
+Optic disc parameters.txt,234.3,4.70E-171,3.30E-168,2,0,1,0,1,1
+Coronary heart disease.txt,233.8,9.20E-171,6.60E-168,9,8,9,10,12,0
+Cutaneous malignant melanoma.txt,232.9,3.80E-170,2.70E-167,2,3,2,2,2,1
+Pulmonary function in asthmatics.txt,232.6,5.40E-170,3.80E-167,2,2,2,2,1,1
+Acylcarnitine levels.txt,232.3,9.10E-170,6.50E-167,6,7,7,7,8,1
+Alzheimers disease in APOE e4- carriers.txt,231.8,1.60E-169,1.20E-166,2,1,1,1,1,1
+Pancreatitis.txt,229.5,4.90E-168,3.50E-165,1,2,2,1,1,1
+Large artery stroke.txt,229,1.00E-167,7.20E-165,1,1,1,1,1,1
+Attention deficit hyperactivity disorder and conduct disorder.txt,228,4.40E-167,3.10E-164,11,10,9,9,9,0
+Yu-Zhi constitution type in type 2 diabetes.txt,226.8,2.60E-166,1.80E-163,3,4,4,5,4,1
+Renal function-related traits BUN.txt,225.5,1.80E-165,1.20E-162,1,1,1,1,1,1
+Infant length.txt,225.4,2.00E-165,1.40E-162,3,4,4,5,5,1
+Developmental dysplasia of the hip.txt,224.5,7.50E-165,5.30E-162,0,1,1,1,2,1
+Smooth-surface caries.txt,223.9,2.00E-164,1.40E-161,12,15,15,15,15,0
+Obesity early onset extreme.txt,223.6,2.90E-164,2.00E-161,6,4,4,4,4,1
+Suicide ideation score in major depressive disorder.txt,223.5,3.60E-164,2.50E-161,2,0,0,1,0,1
+Testicular cancer.txt,217.3,3.10E-160,2.10E-157,2,3,3,3,3,1
+Self-rated health.txt,215.6,4.10E-159,2.90E-156,2,2,1,2,1,1
+Antitragus size.txt,215.5,4.80E-159,3.30E-156,0,0,1,0,1,1
+Anxiety disorder.txt,215.1,8.20E-159,5.70E-156,3,2,2,2,1,1
+Current cigarettes per day in chronic obstructive pulmonary disease.txt,213.9,5.00E-158,3.40E-155,2,2,2,2,2,1
+Blood pressure measurement high sodium intervention.txt,213.5,9.60E-158,6.60E-155,0,1,1,0,0,1
+Cardiac Troponin-T levels.txt,212.9,2.20E-157,1.50E-154,4,4,3,4,3,1
+Sleep quality.txt,212.5,4.20E-157,2.90E-154,3,1,1,1,2,1
+Plasma amyloid beta peptide concentrations ABx-40.txt,210.8,5.30E-156,3.60E-153,0,0,0,0,0,1
+Myocardial infarction early onset.txt,210.3,1.00E-155,7.10E-153,3,4,4,4,4,1
+Bladder cancer.txt,208.4,1.60E-154,1.10E-151,4,5,5,5,5,1
+AD Atopic dermatitis from AV.txt,207.3,9.80E-154,6.70E-151,3,3,2,2,1,1
+Chronic kidney disease.txt,206.7,2.20E-153,1.50E-150,4,4,3,3,2,1
+Mortality in heart failure.txt,205.7,1.10E-152,7.50E-150,3,2,2,2,3,1
+Systolic blood pressure in sickle cell anemia.txt,205.4,1.50E-152,1.00E-149,6,7,7,7,7,1
+Optic cup area.txt,205,2.70E-152,1.80E-149,2,2,2,2,1,1
+Activated partial thromboplastin time.txt,203.8,1.60E-151,1.10E-148,4,4,4,4,4,1
+Ankle-brachial index.txt,202.4,1.40E-150,9.70E-148,2,1,1,1,1,1
+Thyroid peroxidase antibody positivity.txt,199.7,8.10E-149,5.50E-146,1,2,2,2,2,1
+Obesity extreme.txt,199.3,1.60E-148,1.10E-145,0,1,1,1,1,1
+Bone mineral density paediatric lower limb.txt,198.3,7.10E-148,4.80E-145,6,5,4,4,3,1
+Bronchodilator response in asthma inhaled corticosteroid treatment interaction.txt,197.2,3.60E-147,2.40E-144,0,0,0,0,1,1
+Hepatitis B.txt,194.6,1.90E-145,1.20E-142,0,0,0,0,0,1
+Age at smoking initiation in chronic obstructive pulmonary disease.txt,194.2,3.70E-145,2.40E-142,3,4,4,4,4,1
+Circulating myeloperoxidase levels plasma.txt,191.6,1.80E-143,1.20E-140,2,3,3,3,3,1
+IgA nephropathy.txt,191.1,4.20E-143,2.80E-140,5,4,4,3,4,1
+Serum metabolite levels.txt,189.9,2.70E-142,1.80E-139,6,6,6,5,7,1
+Blood trace element Zn levels.txt,189.5,4.90E-142,3.20E-139,0,1,1,1,1,1
+Calcium levels.txt,189.5,5.00E-142,3.30E-139,6,7,7,8,7,1
+Periodontitis PAL4Q3.txt,188.9,1.20E-141,8.10E-139,4,6,5,6,6,1
+Fibrinogen.txt,187.9,5.80E-141,3.90E-138,13,14,12,14,14,0
+RA Rheumatoid arthritis from AV.txt,187.7,7.70E-141,5.10E-138,81,75,79,73,74,0
+Non-alcoholic fatty liver disease histology other.txt,186.9,2.40E-140,1.60E-137,6,8,8,8,8,1
+Blood trace element Cu levels.txt,186.7,3.20E-140,2.10E-137,1,2,2,2,2,1
+Retinal arteriolar caliber.txt,186.3,6.80E-140,4.50E-137,4,3,3,3,2,1
+Cardiac repolarization.txt,185.9,1.20E-139,8.30E-137,1,2,2,1,3,1
+Life threatening arrhythmia.txt,185.6,1.70E-139,1.10E-136,2,2,2,2,1,1
+vWF and FVIII levels.txt,185,4.70E-139,3.10E-136,1,1,1,1,0,1
+IBD Inflammatory bowel disease from AV.txt,184.1,1.90E-138,1.20E-135,86,91,94,93,92,0
+Creutzfeldt-Jakob disease sporadic.txt,181.7,8.20E-137,5.40E-134,1,1,1,1,2,1
+MGMT methylation in smokers.txt,181.6,8.30E-137,5.50E-134,0,1,0,1,1,1
+Celiac disease or Rheumatoid arthritis.txt,181.6,8.90E-137,5.80E-134,0,1,0,1,0,1
+Inflammatory biomarkers in Kawasaki disease.txt,181.2,1.60E-136,1.00E-133,1,0,0,0,0,1
+Restless legs syndrome.txt,178.1,2.10E-134,1.30E-131,2,3,3,3,3,1
+Urate levels in overweight individuals.txt,177.5,4.80E-134,3.10E-131,7,5,6,6,6,1
+Hemoglobin A2 levels in sickle cell anemia.txt,174.7,4.20E-132,2.70E-129,1,0,0,0,0,1
+Crohns disease and psoriasis.txt,173.8,1.60E-131,1.10E-128,2,1,2,1,2,1
+Stroke ischemic.txt,173.4,3.20E-131,2.10E-128,1,1,1,1,1,1
+White matter hyperintensity burden.txt,172.9,6.40E-131,4.10E-128,5,5,5,4,4,1
+Cataracts in type 2 diabetes.txt,172.3,1.70E-130,1.10E-127,0,0,0,0,0,1
+Menarche age at onset.txt,172,2.80E-130,1.80E-127,56,51,52,54,53,0
+Plasma omega-6 polyunsaturated fatty acid levels linoleic acid.txt,171.7,4.40E-130,2.80E-127,2,1,1,1,1,1
+Percent mammographic density.txt,171.5,6.20E-130,3.90E-127,4,3,3,4,2,1
+Cognitive function.txt,171.3,7.80E-130,5.00E-127,2,1,1,1,1,1
+Tourettes syndrome or obsessive-compulsive disorder.txt,171.1,1.00E-129,6.80E-127,2,1,1,1,0,1
+Lung cancer asbestos exposure interaction.txt,170.8,1.70E-129,1.10E-126,0,0,0,1,1,1
+Folding of antihelix.txt,169.9,7.70E-129,4.90E-126,1,2,2,2,1,1
+Body mass index in asthmatics.txt,169.6,1.10E-128,7.40E-126,1,0,0,0,1,1
+Urate levels BMI interaction.txt,169.5,1.20E-128,8.10E-126,2,2,2,2,2,1
+Hematological and biochemical traits.txt,169.5,1.30E-128,8.60E-126,2,3,2,2,3,1
+Asthma childhood onset.txt,168.7,4.40E-128,2.80E-125,1,2,2,2,2,1
+Local histogram emphysema pattern.txt,168.3,9.00E-128,5.70E-125,5,4,5,5,5,1
+Multiple myeloma IgH translocation.txt,168.2,1.00E-127,6.90E-125,6,4,4,4,4,1
+Tanning.txt,167.1,5.90E-127,3.70E-124,1,1,1,1,0,1
+Sagittal craniosynostosis.txt,166.9,7.90E-127,4.90E-124,2,1,1,2,2,1
+Pulmonary arterial hypertension without BMPR2 mutations.txt,166.7,1.10E-126,7.00E-124,1,0,0,0,0,1
+Freckles.txt,166.2,2.50E-126,1.60E-123,0,0,0,0,0,1
+DNA methylation parent-of-origin.txt,165.8,4.20E-126,2.60E-123,2,3,3,3,3,1
+Neurofibrillary tangles.txt,163.5,1.80E-124,1.10E-121,4,3,3,3,3,1
+Suicide in bipolar disorder.txt,163.3,2.10E-124,1.30E-121,2,2,2,2,2,1
+Nicotine use.txt,162.9,4.20E-124,2.60E-121,3,2,2,2,2,1
+Lymphoma.txt,162.7,5.80E-124,3.60E-121,3,1,1,1,0,1
+Male-pattern baldness.txt,162.3,1.10E-123,7.40E-121,3,3,3,3,3,1
+Bilirubin levels.txt,160.3,2.80E-122,1.70E-119,5,4,4,4,5,1
+Creutzfeldt-Jakob disease.txt,159.8,5.50E-122,3.40E-119,2,2,2,2,3,1
+Non-small cell lung cancer survival.txt,159.2,1.60E-121,1.00E-118,1,2,2,2,2,1
+Prostate-specific antigen levels.txt,158.6,4.00E-121,2.40E-118,0,0,0,0,0,1
+Alcohol and nictotine co-dependence.txt,158,1.00E-120,6.60E-118,1,0,0,0,0,1
+Free thyroxine concentration.txt,157.8,1.40E-120,9.20E-118,2,1,1,1,0,1
+Personality dimensions.txt,157.3,3.20E-120,2.00E-117,4,5,5,6,5,1
+Conduct disorder.txt,155.6,5.10E-119,3.10E-116,1,1,1,1,1,1
+PBC Primary biliary cirrhosis from AV.txt,154.7,2.00E-118,1.20E-115,9,11,12,10,12,0
+Adiponectin levels.txt,153.8,7.90E-118,4.80E-115,7,6,7,6,8,1
+Sudden cardiac arrest.txt,153.5,1.40E-117,8.70E-115,1,0,0,0,0,1
+IgM levels.txt,153,2.90E-117,1.70E-114,4,4,4,4,3,1
+Dehydroepiandrosterone sulphate levels.txt,152.5,6.60E-117,4.00E-114,0,0,0,0,0,1
+Aging time to event.txt,152.4,7.50E-117,4.60E-114,2,3,3,2,3,1
+Sunburns.txt,151.1,6.10E-116,3.70E-113,1,1,1,1,1,1
+Lipoprotein-associated phospholipase A2 activity and mass.txt,151.1,6.90E-116,4.20E-113,5,5,6,5,6,1
+Acute kidney injury in coronary artery bypass surgery creatinine rise.txt,150.5,1.70E-115,1.00E-112,0,0,0,0,0,1
+Information processing speed.txt,150.2,2.60E-115,1.50E-112,12,10,10,10,9,0
+Immune response to smallpox vaccine IL-6.txt,149.7,6.30E-115,3.80E-112,0,0,0,0,0,1
+"Schizophrenia, bipolar disorder and depression combined.txt",147.9,1.10E-113,7.20E-111,1,1,2,2,2,1
+Non-melanoma skin cancer.txt,147.8,1.20E-113,7.40E-111,0,0,0,0,0,1
+Fractional exhaled nitric oxide levels.txt,147.6,1.90E-113,1.10E-110,1,1,1,1,2,1
+Lead levels in blood.txt,147.5,2.10E-113,1.30E-110,11,10,11,11,12,0
+Birth weight.txt,146.5,1.10E-112,6.80E-110,1,2,2,2,3,1
+Forced vital capacity.txt,145.6,4.30E-112,2.60E-109,2,1,1,2,2,1
+Thiazide-induced adverse metabolic effects in hypertensive patients.txt,145,1.20E-111,7.10E-109,9,9,10,9,10,0
+Alcohol consumption transferrin glycosylation.txt,144.9,1.30E-111,7.80E-109,2,2,2,3,2,1
+Optic nerve measurement rim area.txt,144.9,1.50E-111,8.90E-109,2,2,2,2,2,1
+Liver enzyme levels aspartate transaminase.txt,144.8,1.60E-111,9.70E-109,0,0,0,1,0,1
+Behcets disease.txt,144.5,2.60E-111,1.50E-108,4,2,2,3,3,1
+C-reactive protein levels.txt,144.3,3.60E-111,2.10E-108,5,5,5,5,6,1
+Abdominal aortic aneurysm.txt,143.9,6.60E-111,3.90E-108,1,0,0,1,0,1
+Peak creatinine levels in vancomycin therapy.txt,143.6,1.10E-110,6.90E-108,2,0,1,1,1,1
+Cystic fibrosis severity.txt,143.6,1.20E-110,7.20E-108,0,1,0,0,0,1
+Plasma omega-6 polyunsaturated fatty acid levels gamma-linolenic acid.txt,143.4,1.70E-110,1.00E-107,4,4,4,4,5,1
+Blood pressure age interaction.txt,143.2,2.10E-110,1.20E-107,2,2,2,2,3,1
+Crohns disease-related phenotypes.txt,143.2,2.10E-110,1.20E-107,1,0,0,0,0,1
+Primary tooth development time to first tooth eruption.txt,143.1,2.40E-110,1.40E-107,3,3,3,4,5,1
+Migraine - clinic-based.txt,142.6,6.20E-110,3.60E-107,3,4,3,3,3,1
+Hepatitis B viral clearance.txt,142.3,1.00E-109,6.00E-107,0,0,1,1,1,1
+Plasma omega-6 polyunsaturated fatty acid levels arachidonic acid.txt,141.9,1.70E-109,1.00E-106,3,3,3,2,3,1
+Iron status biomarkers.txt,141.5,3.20E-109,1.80E-106,4,4,5,5,5,1
+Haptoglobin levels.txt,141.4,4.00E-109,2.30E-106,0,0,0,1,0,1
+Permanent tooth development.txt,141,8.40E-109,4.80E-106,3,2,2,2,2,1
+Gastritis.txt,140.8,1.00E-108,6.20E-106,0,0,0,0,0,1
+Depressive symptoms SSRI exposure interaction.txt,140.3,2.50E-108,1.40E-105,2,3,3,3,4,1
+Platelet count.txt,140,4.20E-108,2.40E-105,13,14,14,13,13,0
+Autism spectrum disorder.txt,139.8,5.90E-108,3.40E-105,0,0,0,0,0,1
+Irritable bowel syndrome.txt,139.4,1.10E-107,6.40E-105,1,1,1,1,0,1
+Hand grip strength.txt,139,2.00E-107,1.10E-104,0,0,0,0,0,1
+Lung cancer smoking interaction.txt,138.9,2.20E-107,1.20E-104,1,0,0,0,0,1
+Self-reported allergy.txt,138.1,9.60E-107,5.40E-104,4,5,5,4,6,1
+Neutrophil count.txt,137.8,1.30E-106,7.90E-104,6,5,6,6,5,1
+Gallbladder cancer.txt,137.8,1.50E-106,8.90E-104,0,0,0,0,0,1
+Homocysteine levels.txt,137.3,3.00E-106,1.70E-103,9,10,10,9,9,0
+Type 1 diabetes.txt,137.2,3.80E-106,2.10E-103,5,7,6,7,6,1
+Progression free survival in metastatic colorectal cancer treatment interaction.txt,136,2.80E-105,1.50E-102,0,1,1,1,1,1
+Atrial fibrillation.txt,135.4,7.00E-105,3.90E-102,1,4,3,3,3,1
+Serum thyroid-stimulating hormone levels.txt,135.2,9.60E-105,5.40E-102,1,2,2,1,1,1
+Hoarding.txt,135.1,1.20E-104,7.00E-102,0,0,0,0,1,1
+Waist Circumference - Triglycerides WC-TG.txt,134.9,1.60E-104,9.20E-102,6,6,4,6,4,1
+Sexual dysfunction female.txt,134.2,4.90E-104,2.70E-101,2,2,2,2,2,1
+IgE levels.txt,133.4,1.80E-103,1.00E-100,1,2,2,2,2,1
+Congenital heart malformation.txt,132.9,4.20E-103,2.30E-100,0,1,0,0,0,1
+Plasma homocysteine levels post-methionine load test.txt,132,2.00E-102,1.10E-99,1,1,1,1,1,1
+Uric acid levels.txt,131.6,4.00E-102,2.20E-99,9,11,10,11,10,0
+Sexual dysfunction SSRISNRI-related.txt,131.2,7.20E-102,4.00E-99,1,2,2,2,2,1
+Alcohol dependence age at onset.txt,131,9.80E-102,5.40E-99,9,8,8,8,7,1
+B-type natriuretic peptide.txt,130.8,1.50E-101,8.30E-99,1,2,1,2,1,1
+Cough in response to angiotensin-converting enzyme inhibitor drugs.txt,130.5,2.10E-101,1.20E-98,0,1,0,1,1,1
+Renal cell carcinoma.txt,129.6,1.00E-100,5.80E-98,2,1,2,1,2,1
+Cerebral amyloid angiopathy.txt,129,2.80E-100,1.50E-97,1,0,0,0,1,1
+Plasma homocysteine levels.txt,128.1,1.20E-99,6.60E-97,1,1,1,1,2,1
+Coronary restenosis.txt,128,1.40E-99,7.90E-97,1,0,0,1,1,1
+Insulin-like growth factors.txt,127.6,2.50E-99,1.30E-96,1,2,2,2,3,1
+White blood cell count.txt,127.5,3.10E-99,1.60E-96,8,9,9,9,8,0
+Apolipoprotein Levels.txt,127.1,6.20E-99,3.30E-96,1,2,2,2,2,1
+Mean corpuscular hemoglobin concentration.txt,126.8,1.00E-98,5.90E-96,3,2,2,2,3,1
+Social communication problems.txt,126.1,3.10E-98,1.70E-95,3,2,3,3,4,1
+Malaria.txt,125.9,4.30E-98,2.30E-95,4,3,3,4,4,1
+Periodontitis DPAL.txt,125.3,1.10E-97,6.20E-95,0,0,0,0,0,1
+Substance dependence.txt,125.3,1.20E-97,6.50E-95,1,0,0,0,1,1
+Cystic fibrosis-related diabetes.txt,125.1,1.80E-97,9.80E-95,2,1,1,1,2,1
+Renal sinus fat.txt,125,2.20E-97,1.10E-94,3,3,3,3,2,1
+AIDS.txt,123.5,2.30E-96,1.20E-93,0,0,0,0,1,1
+Amyotrophic lateral sclerosis age of onset.txt,122.8,7.90E-96,4.20E-93,1,1,1,1,2,1
+Preschool internalizing problems.txt,122.7,9.20E-96,4.90E-93,6,6,6,7,7,1
+Methotrexate clearance acute lymphoblastic leukemia.txt,122.6,1.00E-95,5.50E-93,0,0,0,0,1,1
+Obesity in adult survivors of childhood cancer exposed to cranial radiation.txt,122.5,1.40E-95,7.50E-93,1,2,2,2,1,1
+QT interval.txt,122.2,2.10E-95,1.10E-92,27,28,26,29,28,0
+Moyamoya disease.txt,122.2,2.30E-95,1.20E-92,0,0,1,1,1,1
+Attention deficit hyperactivity disorder inattention symptoms.txt,121.9,3.60E-95,1.90E-92,12,13,13,13,15,0
+LDL cholesterol.txt,121,1.50E-94,8.40E-92,20,26,25,25,26,0
+Ulcerative colitis or Crohns disease.txt,120.7,2.60E-94,1.30E-91,2,2,2,2,2,1
+AR-C124910XX levels in individuals with acute coronary syndromes treated with ticagrelor.txt,120.4,4.30E-94,2.20E-91,4,4,4,4,3,1
+Prostate cancer aggressiveness.txt,120.3,4.90E-94,2.60E-91,0,0,0,0,0,1
+Body mass index in non-asthmatics.txt,119.4,2.10E-93,1.10E-90,3,2,2,2,3,1
+Chronic obstructive pulmonary disease-related biomarkers.txt,119.2,3.10E-93,1.60E-90,3,3,3,4,5,1
+Arthritis juvenile idiopathic.txt,118.5,1.00E-92,5.40E-90,0,0,1,0,1,1
+Bipolar disorder and schizophrenia.txt,118.3,1.30E-92,7.10E-90,3,3,2,3,2,1
+Kidney stones.txt,117.8,3.50E-92,1.80E-89,3,3,3,3,3,1
+Idiopathic membranous nephropathy.txt,117.5,5.40E-92,2.80E-89,2,2,2,2,1,1
+HIV-associated dementia.txt,117.5,5.60E-92,2.90E-89,3,4,4,4,3,1
+Ischemic stroke.txt,117.5,6.00E-92,3.00E-89,3,3,2,2,2,1
+Mammographic density non-dense area.txt,117.3,7.30E-92,3.70E-89,4,5,5,5,5,1
+Cannabis use initiation.txt,116.9,1.60E-91,8.20E-89,6,5,5,6,6,1
+Myeloproliferative neoplasms.txt,116.3,3.90E-91,2.00E-88,0,0,0,0,0,1
+Hematocrit.txt,116.3,4.00E-91,2.00E-88,0,0,0,0,0,1
+Immune response to anthrax vaccine.txt,115.8,9.80E-91,5.00E-88,0,0,0,0,0,1
+Mean corpuscular hemoglobin.txt,115.1,3.20E-90,1.60E-87,4,6,6,6,6,1
+Basal cell carcinoma.txt,115,3.40E-90,1.70E-87,2,2,2,2,2,1
+Glaucoma.txt,114.9,4.30E-90,2.10E-87,5,4,5,5,6,1
+Vitamin B levels in ischemic stroke.txt,114.6,7.30E-90,3.70E-87,0,1,1,0,0,1
+Resting heart rate.txt,114.5,7.90E-90,4.00E-87,4,2,2,2,3,1
+Head circumference infant.txt,114,1.90E-89,1.00E-86,0,0,0,0,0,1
+Alcoholism alcohol dependence factor score.txt,113.9,2.40E-89,1.20E-86,2,2,2,2,2,1
+Interstitial lung disease.txt,113.2,7.80E-89,3.90E-86,2,3,4,3,3,1
+Sclerosing cholangitis and ulcerative colitis combined.txt,112.7,1.70E-88,8.60E-86,3,2,2,2,2,1
+Renal function and chronic kidney disease.txt,112.6,2.20E-88,1.10E-85,0,1,1,0,0,1
+Anterior chamber depth.txt,111.7,9.90E-88,4.90E-85,0,1,1,1,0,1
+Visceral fat.txt,111.1,2.80E-87,1.40E-84,5,6,5,6,6,1
+Blood trace element Se levels.txt,110.7,4.90E-87,2.40E-84,1,1,0,1,0,1
+"Multiple cancers lung cancer, gastric cancer, and squamous cell carcinoma.txt",110.3,1.00E-86,5.40E-84,2,2,1,2,1,1
+Multiple myeloma and monoclonal gammopathy.txt,110.2,1.10E-86,5.90E-84,1,2,1,2,1,1
+MS Multiple sclerosis from AV.txt,110.2,1.20E-86,6.30E-84,38,37,39,35,35,0
+Complement C3 and C4 levels.txt,110.1,1.40E-86,7.30E-84,0,0,0,0,0,1
+Obesity.txt,109.9,2.10E-86,1.00E-83,12,15,14,15,14,0
+Middle childhood and early adolescence aggressive behavior.txt,109.8,2.30E-86,1.10E-83,4,3,3,3,3,1
+Chronic hepatitis B infection.txt,109.1,8.20E-86,4.00E-83,4,5,4,4,2,1
+Proinsulin levels.txt,108.3,2.80E-85,1.30E-82,2,2,2,2,1,1
+Suicide risk.txt,108.3,3.10E-85,1.50E-82,1,2,2,2,2,1
+Parent of origin effect on language impairment paternal.txt,108.2,3.80E-85,1.80E-82,2,2,1,2,2,1
+Graves disease.txt,108.1,4.10E-85,1.90E-82,0,1,1,1,1,1
+Inflammatory bowel disease.txt,108,5.10E-85,2.40E-82,46,49,49,50,47,0
+Quantitative traits.txt,107.7,8.50E-85,4.10E-82,4,6,5,5,5,1
+Body mass index change over time.txt,107,2.70E-84,1.30E-81,2,3,3,3,3,1
+CeD Coeliac disease from AV.txt,106.9,3.30E-84,1.60E-81,38,37,40,38,41,0
+Sphingolipid levels.txt,106.2,9.90E-84,4.70E-81,3,3,3,3,3,1
+Two-hour glucose challenge.txt,105.9,1.90E-83,9.30E-81,0,0,0,0,0,1
+Liver enzyme levels.txt,105.5,3.70E-83,1.70E-80,2,3,2,2,1,1
+Cortical thickness.txt,105.2,6.10E-83,2.90E-80,2,1,1,1,1,1
+P wave duration.txt,105.1,6.70E-83,3.20E-80,1,1,1,0,1,1
+Total bilirubin levels in HIV-1 infection.txt,104.9,9.00E-83,4.20E-80,1,1,1,1,0,1
+Coronary artery disease.txt,104.8,1.00E-82,5.10E-80,1,1,1,1,1,1
+Phytosterol levels.txt,104.8,1.20E-82,5.90E-80,0,1,0,0,0,1
+Vincristine-induced peripheral neuropathy in acute lymphoblastic leukemia.txt,104.5,1.90E-82,9.20E-80,0,1,1,1,1,1
+Inflammatory biomarkers.txt,104.3,2.60E-82,1.20E-79,6,5,5,4,4,1
+Adolescent idiopathic scoliosis severe.txt,104.2,3.10E-82,1.40E-79,0,0,0,0,0,1
+Atrial fibrillationatrial flutter.txt,103.7,7.50E-82,3.50E-79,1,0,1,1,1,1
+Schizophrenia treatment resistant.txt,103.5,1.00E-81,5.00E-79,1,1,2,1,2,1
+Percentage gas trapping.txt,103.4,1.30E-81,6.20E-79,7,7,7,7,6,1
+Adiposity.txt,103.3,1.40E-81,6.50E-79,2,1,2,1,1,1
+Vitiligo.txt,103.2,1.60E-81,7.80E-79,1,2,1,1,0,1
+IgE levels in asthmatics D.p. specific.txt,103.1,2.00E-81,9.70E-79,0,1,1,0,0,1
+Relative hand skill in reading disability.txt,103,2.60E-81,1.20E-78,0,0,0,1,0,1
+Reading or mathematical ability.txt,102.7,4.20E-81,1.90E-78,2,2,2,2,3,1
+Asymmetrical dimethylarginine levels.txt,102.3,8.10E-81,3.70E-78,0,1,1,1,0,1
+Non-alcoholic fatty liver disease histology lobular.txt,102.2,1.00E-80,4.60E-78,2,2,2,2,2,1
+Plasma omega-6 polyunsaturated fatty acid levels dihomo-gamma-linolenic acid.txt,102.2,1.00E-80,4.80E-78,6,6,5,6,6,1
+Kawasaki disease.txt,102,1.30E-80,6.20E-78,4,5,4,5,4,1
+Pediatric bone mineral content radius.txt,101.9,1.50E-80,7.10E-78,1,1,0,1,0,1
+Iron status biomarkers ferritin levels.txt,101.6,2.70E-80,1.20E-77,1,2,2,2,1,1
+Forced expiratory volume in 1 second.txt,100.6,1.40E-79,6.60E-77,3,3,3,3,4,1
+Alzheimers disease in APOE e4+ carriers.txt,100.6,1.60E-79,7.50E-77,7,6,6,6,6,1
+Nasopharyngeal carcinoma.txt,100.2,3.10E-79,1.40E-76,0,0,0,0,0,1
+Intraocular pressure.txt,99.9,5.00E-79,2.20E-76,33,33,33,32,31,0
+D-dimer levels.txt,99.3,1.50E-78,6.80E-76,1,0,0,1,1,1
+Ovarian cancer.txt,99.2,1.70E-78,7.90E-76,2,2,2,2,2,1
+Neuroblastoma.txt,98.5,5.10E-78,2.30E-75,5,4,4,4,5,1
+Glioma.txt,98.5,5.70E-78,2.50E-75,1,2,2,2,2,1
+LDL peak particle diameter total fat intake interaction.txt,98.5,5.90E-78,2.60E-75,9,10,10,10,11,0
+Antibody level in response to infection.txt,97.2,5.50E-77,2.40E-74,2,1,1,1,1,1
+Colorectal cancer calcium intake interaction.txt,97,7.40E-77,3.20E-74,1,1,1,1,1,1
+Meningioma.txt,96.3,2.30E-76,1.00E-73,2,1,2,2,2,1
+Testosterone levels.txt,96.3,2.40E-76,1.00E-73,3,2,1,1,1,1
+Retinal vascular caliber.txt,96.1,3.30E-76,1.40E-73,0,1,0,0,0,1
+Lewy body disease.txt,96,4.50E-76,1.90E-73,1,2,1,2,3,1
+Circulating cell-free DNA.txt,94.9,2.50E-75,1.10E-72,1,1,1,1,0,1
+Classic bladder exstrophy.txt,94.9,2.60E-75,1.10E-72,0,0,0,1,1,1
+Red wine liking.txt,94.5,5.10E-75,2.20E-72,0,0,0,0,0,1
+Alzheimers disease biomarkers.txt,94.1,1.00E-74,4.70E-72,3,2,2,2,3,1
+Migraine without aura.txt,93.5,3.20E-74,1.40E-71,4,3,3,4,4,1
+Biomedical quantitative traits.txt,92.8,1.00E-73,4.40E-71,2,1,1,1,2,1
+Type 2 diabetes and other traits.txt,92.5,1.60E-73,7.30E-71,0,1,0,1,0,1
+Longevity.txt,92,3.90E-73,1.70E-70,4,3,3,4,4,1
+Osteoprotegerin levels.txt,91.7,6.70E-73,2.90E-70,5,4,4,4,5,1
+Lipid traits.txt,91.5,1.00E-72,4.30E-70,9,9,8,8,7,1
+Mammographic density.txt,90.9,2.60E-72,1.10E-69,2,1,1,1,2,1
+PR segment.txt,90.6,4.60E-72,1.90E-69,3,3,3,3,3,1
+Serum uric acid levels.txt,90.6,5.00E-72,2.10E-69,3,2,2,2,2,1
+Fasting glucose-related traits.txt,90.5,5.20E-72,2.20E-69,11,8,8,9,9,0
+Sleep duration.txt,90.3,7.50E-72,3.20E-69,0,0,1,1,1,1
+Multiple myeloma hyperdiploidy.txt,90.3,7.70E-72,3.20E-69,2,2,3,3,2,1
+Angiotensin-converting enzyme activity.txt,90.2,9.50E-72,4.00E-69,0,0,0,0,0,1
+Hippocampal sclerosis.txt,90.1,1.10E-71,4.80E-69,2,2,2,2,2,1
+Fuchss corneal dystrophy.txt,90.1,1.20E-71,5.10E-69,0,0,0,0,0,1
+Osteosarcoma.txt,89.9,1.60E-71,7.00E-69,2,2,2,2,2,1
+"Autism spectrum disorder, attention deficit-hyperactivity disorder, bipolar disorder, major depressive disorder, and schizophrenia combined.txt",89.6,2.40E-71,1.00E-68,17,17,17,17,14,0
+Cardiovascular disease risk factors.txt,89.5,3.30E-71,1.30E-68,1,2,1,2,1,1
+Cutaneous nevi.txt,89.2,5.00E-71,2.00E-68,1,2,1,2,1,1
+Blood pressure measurement high sodium and potassium intervention.txt,88.8,1.10E-70,4.50E-68,1,0,0,0,0,1
+Plasma amyloid beta peptide concentrations ABx-42.txt,88.2,3.00E-70,1.20E-67,1,1,1,1,1,1
+Airway imaging phenotypes.txt,88.1,3.40E-70,1.40E-67,5,4,4,4,4,1
+Gambling.txt,88.1,3.70E-70,1.50E-67,3,3,3,3,3,1
+Weight loss gastric bypass surgery.txt,87.6,9.40E-70,3.80E-67,0,0,0,0,0,1
+Bipolar disorder.txt,87.5,1.00E-69,4.30E-67,17,16,15,16,16,0
+Lung adenocarcinoma.txt,87.4,1.20E-69,5.20E-67,0,0,0,0,1,1
+Hypertension.txt,87.2,1.90E-69,7.80E-67,16,14,14,14,13,0
+Neuropathic pain in type 2 diabetes.txt,87.2,1.90E-69,7.70E-67,2,2,2,3,2,1
+Kidney function decline traits.txt,86.1,1.10E-68,4.80E-66,3,2,3,4,2,1
+Hippocampal atrophy.txt,85.3,5.30E-68,2.10E-65,3,6,4,5,4,1
+Protein C levels.txt,84.1,3.90E-67,1.60E-64,0,1,1,0,1,1
+Airway hyperresponsiveness.txt,84,5.00E-67,2.00E-64,0,1,1,1,1,1
+Folate pathway vitamin levels.txt,83.9,5.70E-67,2.30E-64,4,4,4,4,4,1
+Caffeine consumption.txt,83.8,6.30E-67,2.50E-64,5,4,4,5,4,1
+Urinary metabolites.txt,83.4,1.30E-66,5.20E-64,0,0,0,0,0,1
+Change in intraocular pressure in response to steroid treatment triamcinolone acetonide.txt,83.1,2.20E-66,8.80E-64,1,1,1,1,1,1
+Osteoarthritis hip.txt,83,2.50E-66,1.00E-63,1,1,1,1,0,1
+Lupus nephritis in systemic lupus erythematosus.txt,82.4,8.40E-66,3.30E-63,1,2,2,1,1,1
+Liver enzyme levels alanine transaminase.txt,82.1,1.30E-65,5.30E-63,2,3,4,4,3,1
+Vogt-Koyanagi-Harada syndrome.txt,82,1.70E-65,6.70E-63,0,0,0,0,0,1
+Dietary macronutrient intake.txt,81.9,1.90E-65,7.50E-63,4,4,3,3,3,1
+Autism.txt,81.7,2.60E-65,1.00E-62,2,2,2,2,3,1
+Systemic lupus erythematosus.txt,81.3,5.20E-65,2.00E-62,22,24,24,22,22,0
+RR interval heart rate.txt,81.2,6.40E-65,2.50E-62,6,4,6,5,6,1
+Cholesterol and Triglycerides.txt,80.8,1.30E-64,5.30E-62,1,1,1,1,2,1
+Ossification of the posterior longitudinal ligament of the spine.txt,80.3,3.10E-64,1.20E-61,0,0,0,0,1,1
+Gastric cancer.txt,80.3,3.30E-64,1.20E-61,0,0,0,0,0,1
+Natriuretic peptide levels.txt,79.9,6.60E-64,2.50E-61,1,0,0,1,0,1
+Glaucoma exfoliation.txt,78.9,3.70E-63,1.40E-60,1,2,2,2,2,1
+Gout.txt,78.7,5.20E-63,2.00E-60,6,4,5,5,4,1
+Iron levels.txt,78.3,9.90E-63,3.80E-60,2,1,1,1,1,1
+Serum dimethylarginine levels asymmetric_symetric ratio.txt,78.3,1.00E-62,4.10E-60,2,1,1,0,1.5,1
+Celiac disease.txt,78,1.70E-62,6.80E-60,3,4,3,3,2,1
+Fasting plasma glucose.txt,78,1.70E-62,6.50E-60,0,0,0,0,0,1
+Central corneal thickness.txt,77.8,2.40E-62,9.40E-60,3,4,4,4,4,1
+Smoking behavior.txt,77.5,4.60E-62,1.70E-59,3,4,4,4,4,1
+Pit-and-Fissure caries.txt,77.2,6.90E-62,2.60E-59,10,10,10,10,10,0
+Lipoprotein-associated phospholipase A2 activity change in response to statin therapy.txt,77.2,7.00E-62,2.60E-59,1,1,1,1,1,1
+White matter hyperintensity volume in cerebral autosomal-dominant arteriopathy with subcortical infarcts and leukoencephalopathy.txt,76.4,3.20E-61,1.20E-58,1,1,0,0,0,1
+Asthma.txt,76,6.60E-61,2.50E-58,2,3,3,2,3,1
+Alcoholism heaviness of drinking.txt,75.5,1.60E-60,6.00E-58,2,2,2,2,2,1
+Glomerular filtration rate.txt,75.3,2.20E-60,8.20E-58,2,2,2,2,3,1
+Formal thought disorder in schizophrenia.txt,75.1,2.90E-60,1.10E-57,0,0,0,0,0,1
+PR interval.txt,74.4,1.00E-59,3.80E-57,11,11,11,11,13,0
+Underweight status.txt,74.2,1.50E-59,5.70E-57,2,2,2,2,2,1
+Breast cancer.txt,74.2,1.60E-59,6.00E-57,23,20,19,19,21,0
+Height adjusted BMI.txt,74.2,1.60E-59,5.90E-57,0,1,0,1,0,1
+Crohns disease.txt,74.1,1.80E-59,6.90E-57,50,55,53,51,45,0
+Colorectal cancer.txt,74.1,1.90E-59,6.90E-57,16,16,15,15,15,0
+Heschls gyrus morphology.txt,73.7,3.90E-59,1.40E-56,19,19,20,21,21,0
+Butyrylcholinesterase levels.txt,73.6,4.10E-59,1.50E-56,2,1,1,1,1,1
+Chronic obstructive pulmonary disease.txt,73.6,4.20E-59,1.50E-56,5,4,4,4,4,1
+Attention function in attention deficit hyperactive disorder.txt,73.5,5.50E-59,1.90E-56,15,13,14,13,12,0
+Brain structure hippocampal volume.txt,73.1,1.00E-58,3.80E-56,1,1,2,2,1,1
+Osteoarthritis biomarkers.txt,73.1,1.10E-58,4.00E-56,0,0,0,0,0,1
+Post-traumatic stress disorder.txt,72.9,1.60E-58,5.90E-56,0,2,2,2,0,1
+Urinary uromodulin levels.txt,72.5,3.00E-58,1.10E-55,2,2,2,2,3,1
+Vascular brain injury.txt,72.5,3.00E-58,1.00E-55,1,2,2,2,0,1
+Chronic obstructive pulmonary disease moderate to severe.txt,71.5,1.80E-57,6.60E-55,2,2,2,1,2,1
+Amyotrophic lateral sclerosis sporadic.txt,71.3,2.50E-57,8.90E-55,1,1,2,1,1,1
+Lifetime average cigarettes per day in chronic obstructive pulmonary disease.txt,71.2,3.10E-57,1.10E-54,3,3,2,2,2,1
+Optic nerve measurement cup area.txt,71.1,3.50E-57,1.20E-54,2,3,2,2,2,1
+Parkinsons disease age of onset.txt,71,4.40E-57,1.50E-54,1,1,1,1,1,1
+Peripheral artery disease.txt,71,4.80E-57,1.60E-54,0,0,0,0,0,1
+Schizophrenia cytomegalovirus infection interaction.txt,70.9,5.30E-57,1.80E-54,1,0,1,0,1,1
+Allergic dermatitis nickel.txt,70.6,8.70E-57,3.00E-54,1,1,1,1,1,1
+Hearing function.txt,70.5,1.00E-56,3.80E-54,5,4,4,4,4,1
+Soluble levels of adhesion molecules.txt,70.5,1.00E-56,3.70E-54,5,6,6,6,5,1
+Glycated hemoglobin levels.txt,70.5,1.10E-56,4.10E-54,2,2,3,2,4,1
+SS Systemic sclerosis from AV.txt,70.4,1.20E-56,4.20E-54,0,1,1,1,1,1
+Systolic blood pressure alcohol consumption interaction.txt,70.3,1.60E-56,5.60E-54,2,2,2,2,2,1
+Digestive system disease Barretts esophagus and esophageal adenocarcinoma combined.txt,70.1,2.10E-56,7.20E-54,1,2,1,2,2,1
+Urinary albumin excretion rate in type 1 diabetes.txt,69.8,3.90E-56,1.30E-53,0,0,0,0,1,1
+Alopecia areata.txt,69.7,4.90E-56,1.60E-53,2,1,1,2,2,1
+Weight.txt,69.5,7.20E-56,2.40E-53,5,6,5,5,4,1
+Temperament.txt,69.4,7.30E-56,2.40E-53,5,5,5,6,6,1
+Hepatocellular carcinoma hepatitis B virus related.txt,69.4,8.50E-56,2.80E-53,2,2,2,2,2,1
+IgE levels in asthmatics D.f. specific.txt,69.3,9.40E-56,3.10E-53,3,2,2,3,2,1
+Breast size.txt,69.1,1.40E-55,4.70E-53,4,3,4,3,4,1
+Other erythrocyte phenotypes.txt,69,1.50E-55,5.00E-53,0,1,1,0,1,1
+Bulimia nervosa.txt,69,1.60E-55,5.40E-53,10,9,9,9,10,0
+Dementia and core Alzheimers disease neuropathologic changes.txt,69,1.60E-55,5.60E-53,6,4,4,4,4,1
+Urate levels in lean individuals.txt,68.7,2.70E-55,9.10E-53,4,3,4,4,3,1
+Age-related nuclear cataracts.txt,68.2,6.50E-55,2.10E-52,0,0,0,0,0,1
+Parkinson disease and lewy body pathology.txt,68.2,7.20E-55,2.30E-52,0,0,0,0,0,1
+Carotid intima media thickness.txt,68.1,7.90E-55,2.60E-52,3,2,1,1,1,1
+Hippocampal sclerosis of aging.txt,67.8,1.30E-54,4.50E-52,1,1,1,1,1,1
+Iron status biomarkers transferrin levels.txt,67.4,2.70E-54,9.00E-52,3,4,5,4,5,1
+"Fibrinogen levels smoking status, alcohol consumption or body mass index interaction.txt",67.2,4.40E-54,1.40E-51,2,1,2,2,2,1
+Cerebrospinal AB1-42 levels in Alzheimers disease dementia.txt,66.9,7.30E-54,2.30E-51,0,0,0,0,0,1
+Hodgkins lymphoma.txt,66.8,9.10E-54,2.90E-51,0,0,0,0,0,1
+Non-alcoholic fatty liver disease.txt,66.5,1.40E-53,4.70E-51,0,0,0,0,0,1
+Carotid artery intima media thickness sex interaction.txt,66.1,3.10E-53,1.00E-50,0,1,1,1,2,1
+Asthma toluene diisocyanate-induced.txt,65.8,5.30E-53,1.70E-50,2,2,1,1,1,1
+Blood metabolite levels.txt,65.2,1.30E-52,4.40E-50,98,94,94,98,97,0
+Keloid.txt,65,1.90E-52,6.20E-50,0,0,0,0,0,1
+Brain structure temporal lobe volume.txt,65,2.00E-52,6.50E-50,3,3,3,3,3,1
+Bone mineral density paediatric total body less head.txt,64.6,4.00E-52,1.20E-49,5,4,4,4,4,1
+Body mass index.txt,64.2,9.30E-52,2.90E-49,83,86,82,84,82,0
+Puberty onset genital enlargement.txt,63.8,1.70E-51,5.50E-49,1,1,2,1,1,1
+Melanoma.txt,63.6,2.40E-51,7.70E-49,3,3,3,3,4,1
+Thyroid function.txt,63.3,4.40E-51,1.30E-48,1,1,1,1,2,1
+Plasma omega-6 polyunsaturated fatty acid levels adrenic acid.txt,61.8,6.20E-50,1.90E-47,1,1,1,1,1,1
+Breast Cancer in BRCA1 mutation carriers.txt,61.5,1.00E-49,3.40E-47,4,2,3,3,2,1
+Triglycerides-Blood Pressure TG-BP.txt,60.4,9.20E-49,2.80E-46,0,1,1,0,0,1
+Hemoglobin.txt,60.3,1.00E-48,3.30E-46,3,3,3,4,4,1
+Renal transplant outcome.txt,60.3,1.10E-48,3.40E-46,0,0,0,0,0,1
+Body mass index age interaction.txt,60.1,1.40E-48,4.40E-46,1,1,1,1,1,1
+DNA methylation variation.txt,59.6,3.50E-48,1.00E-45,4,3,3,3,3,1
+Orthostatic hypotension.txt,59.6,3.70E-48,1.10E-45,0,0,0,0,0,1
+C-reactive protein.txt,59.3,5.70E-48,1.70E-45,5,6,7,7,8,1
+Dupuytrens disease.txt,59.1,8.80E-48,2.60E-45,1,1,1,1,0.5,1
+Sitting height ratio.txt,58.9,1.30E-47,3.90E-45,14,13,14,14,12,0
+Brain connectivity.txt,58.6,2.10E-47,6.50E-45,0,1,0,1,1,1
+Prothrombin time.txt,58.6,2.10E-47,6.40E-45,2,2,2,2,2,1
+Fat body mass.txt,58.5,2.50E-47,7.50E-45,0,1,1,1,1,1
+Alloimmunization response to red blood cell transfusion in sickle cell anemia.txt,58.4,3.40E-47,1.00E-44,0,0,0,0,0,1
+Carotenoid and tocopherol levels.txt,58.4,3.40E-47,1.00E-44,0,0,0,0,0,1
+C-reactive protein and white blood cell count.txt,57.8,9.20E-47,2.70E-44,2,2,2,2,2,1
+Cardia gastric cancer.txt,57.7,1.00E-46,3.20E-44,1,2,2,1,1,1
+Pubertal anthropometrics.txt,57.5,1.60E-46,4.70E-44,14,12,12,13,13,0
+Insomnia caffeine-induced.txt,57,3.80E-46,1.10E-43,0,0,0,0,0,1
+Myopia severe.txt,56.7,6.40E-46,1.80E-43,0,1,1,1,0,1
+Suicide attempts in bipolar disorder.txt,56.7,6.90E-46,2.00E-43,0,0,1,1,0,1
+Cotinine glucuronidation.txt,56.3,1.40E-45,4.10E-43,4,5,5,5,4,1
+Circulating vasoactive peptide levels.txt,55.6,5.40E-45,1.50E-42,1,0,0,0,1,1
+Type 1 diabetes autoantibodies.txt,55.5,5.70E-45,1.60E-42,4,5,4,4,3,1
+Squamous cell carcinoma.txt,55.5,5.80E-45,1.60E-42,2,2,2,2,2,1
+Narcolepsy with cataplexy.txt,55.4,7.50E-45,2.10E-42,0,0,0,0,0,1
+Disc degeneration lumbar.txt,55.4,7.60E-45,2.10E-42,15,14,14,15,14,0
+Glaucoma primary open-angle.txt,55.3,8.40E-45,2.30E-42,5,3,4,4,4,1
+Major depressive disorder.txt,55,1.40E-44,4.00E-42,9,9,9,9,9,0
+Coronary spasm.txt,55,1.50E-44,4.40E-42,2,2,2,2,2,1
+Height.txt,55,1.50E-44,4.20E-42,232,246,243,245,242,0
+Infantile hypertrophic pyloric stenosis.txt,54.8,2.30E-44,6.50E-42,2,2,2,2,2,1
+HIV-1 progression.txt,54.7,2.40E-44,6.80E-42,1,1,1,2,2,1
+Nonalcoholic fatty liver disease.txt,54.1,7.40E-44,2.00E-41,3,3,3,3,3,1
+Cardiovascular heart disease in diabetics.txt,54,1.00E-43,2.80E-41,1,1,1,1,2,1
+Coffee consumption cups per day.txt,53.9,1.10E-43,3.20E-41,4,4,3,4,3,1
+Depression quantitative trait.txt,53.7,1.70E-43,4.80E-41,7,7,7,7,8,bod
+Airflow obstruction.txt,53.3,3.20E-43,8.70E-41,4,3,3,4,4,1
+Fasting insulin-related traits.txt,53.2,4.00E-43,1.10E-40,1,2,2,2,1,1
+Amino acid levels.txt,53.2,4.10E-43,1.10E-40,3,2,2,2,2,1
+Protein biomarker.txt,53.1,5.00E-43,1.30E-40,1,1,0,1,0,1
+Sasang constitutional medicine type So-Eum.txt,53,5.50E-43,1.50E-40,1,1,2,1,2,1
+Red blood cell fatty acid levels.txt,53,5.60E-43,1.50E-40,1,1,1,2,2,1
+Subcutaneous adipose tissue.txt,52.1,3.10E-42,8.30E-40,15,16,15,15,13,0
+Systemic sclerosis.txt,51.9,4.00E-42,1.00E-39,1,0,1,0,1,1
+Cerebrospinal P-tau181p levels.txt,51.7,5.80E-42,1.50E-39,1,1,1,0,0,1
+Cervical cancer.txt,51.7,5.80E-42,1.50E-39,3,3,3,3,2,1
+Metabolic syndrome bivariate traits.txt,51.4,1.10E-41,3.10E-39,1,1,1,0,0,1
+Resting oxygen saturation in chronic osbtructive pulmonary disease pulse oxymetry.txt,51.2,1.50E-41,3.90E-39,1,1,1,1,1,1
+Attention deficit hyperactivity disorder.txt,51.1,1.70E-41,4.60E-39,2,2,2,2,3,1
+AS Ankylosing spondylitis from AV.txt,51.1,2.00E-41,5.20E-39,28,27,28,30,29,0
+Lp a levels.txt,51,2.10E-41,5.50E-39,1,1,1,1,1,1
+PS Psoriasis from AV.txt,50.9,2.50E-41,6.40E-39,32,30,32,33,31,0
+Phospholipid levels plasma.txt,50.9,2.50E-41,6.60E-39,13,14,13,13,13,0
+Multiple myeloma.txt,50.9,2.80E-41,7.30E-39,4,5,4,6,4,1
+Alcoholism 12-month weekly alcohol consumption.txt,50.8,3.00E-41,7.70E-39,2,2,2,2,2,1
+Small-cell lung cancer survival.txt,50.7,3.90E-41,9.90E-39,1,1,1,1,0,1
+Smoking cessation in chronic obstructive pulmonary disease.txt,50.1,1.10E-40,2.90E-38,0,0,0,0,0,1
+Insulin-related traits.txt,50,1.30E-40,3.30E-38,1,1,0,0,0,1
+Cardiac structure and function.txt,49.9,1.50E-40,3.90E-38,0,0,0,0,0,1
+Polycystic ovary syndrome.txt,50,1.50E-40,3.80E-38,8,7,8,8,8,1
+Anorexia nervosa.txt,49.7,2.30E-40,5.80E-38,8,8,8,8,7,1
+Vitamin D levels.txt,49.6,3.10E-40,7.70E-38,5,5,6,6,5,1
+Spontaneous preterm birth preterm birth.txt,49.1,7.70E-40,1.90E-37,0,1,0,1,0,1
+Toenail selenium levels.txt,48.7,1.40E-39,3.60E-37,6,6,5,6,6,1
+Hematological parameters.txt,48.5,2.30E-39,5.70E-37,0,1,0,0,0,1
+Anxiety in major depressive disorder.txt,48.4,2.50E-39,6.20E-37,1,1,1,1,1,1
+Hepatitis.txt,48.4,2.50E-39,6.20E-37,2,2,2,2,2,1
+Pneumoconiosis in silica exposure.txt,48,6.00E-39,1.40E-36,0,0,0,1,0,1
+Visceral adipose tissue adjusted for BMI.txt,47.4,1.60E-38,3.90E-36,9,7,7,7,8,1
+Attention deficit hyperactivity disorder symptoms interaction.txt,47.1,2.70E-38,6.50E-36,1,1,1,1,1,1
+Urinary bladder cancer.txt,47,3.50E-38,8.60E-36,0,0,0,0,1,1
+Waist-hip ratio.txt,46.7,5.70E-38,1.30E-35,5,5,5,5,5,1
+Superior frontal gyrus grey matter volume.txt,46.6,7.50E-38,1.70E-35,3,4,3,3,3,1
+Mean corpuscular volume.txt,46.4,1.00E-37,2.40E-35,6,8,7,8,9,1
+JIA Juvenile idiopathic arthritis from AV.txt,46.3,1.30E-37,3.10E-35,13,12,12,12,11,0
+Non-substance related behavioral disinhibition.txt,46.2,1.60E-37,3.80E-35,2,1,2,2,2,1
+Mammographic density dense area.txt,46,2.00E-37,4.70E-35,10,8,8,9,10,0
+Motion sickness.txt,45.8,3.10E-37,7.40E-35,12,12,12,11,12,0
+Renal function-related traits eGRFcrea.txt,45.5,5.40E-37,1.20E-34,1,2,1,1,1,1
+Gamma gluatamyl transferase levels.txt,45.3,7.40E-37,1.70E-34,0,0,0,0,0,1
+Reading and spelling.txt,45.3,7.40E-37,1.70E-34,4,5,4,5,5,1
+Longitudinal alcohol consumption.txt,45.3,7.50E-37,1.70E-34,4,5,5,5,5,1
+Multiple sclerosis.txt,45.3,7.70E-37,1.70E-34,24,27,26,28,26,0
+Vaspin levels.txt,45.1,1.20E-36,2.70E-34,2,1,1,1,2,1
+Blood metabolite ratios.txt,45,1.50E-36,3.40E-34,26,23,22,23,21,0
+Puberty onset.txt,44.7,2.40E-36,5.40E-34,0,0,0,0,0,1
+PCA3 expression level.txt,44.5,3.60E-36,8.10E-34,1,1,1,1,0,1
+Body mass index interaction.txt,44.4,4.20E-36,9.40E-34,2,2,2,1,2,1
+HDL cholesterol.txt,44.4,4.30E-36,9.50E-34,43,42,41,43,41,0
+Primary biliary cirrhosis.txt,44.1,7.40E-36,1.60E-33,8,7,8,7,8,1
+Chronic hepatitis C infection.txt,44,8.10E-36,1.70E-33,0,0,0,0,0,1
+Biliary atresia.txt,44,8.30E-36,1.80E-33,0,1,0,1,0,1
+Periodontitis.txt,43.8,1.20E-35,2.60E-33,1,1,1,1,1,1
+Waist circumference and related phenotypes.txt,43.8,1.20E-35,2.60E-33,0,0,0,1,0,1
+Verbal declarative memory.txt,43.5,2.20E-35,4.80E-33,6,6,5,6,5,1
+Lung cancer.txt,43.3,3.30E-35,7.10E-33,4,3,3,3,4,1
+Diabetic retinopathy.txt,42.7,1.00E-34,2.20E-32,6,5,5,5,6,1
+Nonsyndromic cleft lip with or without cleft palate.txt,42.6,1.20E-34,2.60E-32,0,0,0,0,1,1
+White matter integrity.txt,42.3,2.00E-34,4.30E-32,1,1,1,0,1,1
+Osteoporosis-related phenotypes.txt,42.3,2.20E-34,4.60E-32,1,1,1,1,1,1
+Insulin resistance response.txt,42.1,2.90E-34,6.00E-32,1,1,1,1,2,1
+Sickle cell anemia haemolysis.txt,41.9,4.50E-34,9.40E-32,1,1,1,1,0,1
+Osteoporosis.txt,41.8,5.10E-34,1.00E-31,1,1,1,1,1,1
+Sleep time.txt,41.7,5.70E-34,1.10E-31,0,0,0,0,0,1
+Axial length.txt,41.1,1.90E-33,4.00E-31,5,5,6,6,7,1
+Psoriasis.txt,41,2.20E-33,4.60E-31,20,24,25,24,24,0
+Cerebrospinal T-tau levels.txt,41,2.30E-33,4.70E-31,0,1,1,1,1,1
+Common traits Other.txt,41,2.30E-33,4.60E-31,0,0,0,0,0,1
+Birth length.txt,40.9,2.70E-33,5.40E-31,3,2,2,2,3,1
+Age-related cataracts age at onset.txt,40,1.40E-32,2.80E-30,2,2,2,2,2,1
+Symmetrical dimethylarginine levels.txt,40,1.50E-32,3.00E-30,2,2,2,2,2,1
+Aortic root size.txt,39.7,2.50E-32,5.00E-30,0,1,1,1,0,1
+Narcolepsy.txt,39.6,3.20E-32,6.30E-30,3,2,3,3,2,1
+Cytomegalovirus antibody response.txt,39.4,4.70E-32,9.20E-30,2,1,1,2,1,1
+Ovarian cancer in BRCA1 mutation carriers.txt,39.3,5.30E-32,1.00E-29,1,0,1,0,1,1
+Hemostatic factors and hematological phenotypes.txt,39.2,6.50E-32,1.20E-29,2,1,1,1,1,1
+Paclitaxel-induced neuropathy.txt,39.1,7.90E-32,1.50E-29,0,0,0,0,0,1
+Retinopathy in non-diabetics.txt,39,1.00E-31,1.90E-29,7,7,7,7,7,1
+Intelligence childhood.txt,38.7,1.60E-31,3.10E-29,2,1,1,1,1,1
+Periodontitis CDC AAP.txt,38.4,2.80E-31,5.30E-29,7,6,6,6,5,1
+B cell non-Hodgkin lymphoma.txt,37.9,6.90E-31,1.30E-28,1,0,0,0,0,1
+Tourette syndrome.txt,37.9,6.90E-31,1.30E-28,1,1,1,1,0,1
+Asthma and hay fever.txt,37.9,7.70E-31,1.40E-28,2,2,2,2,2,1
+Allergic rhinitis.txt,37.8,7.90E-31,1.40E-28,3,3,3,3,2,1
+Bronchopulmonary dysplasia.txt,37.8,7.90E-31,1.40E-28,4,4,5,4,4,1
+Blood pressure.txt,37.7,1.10E-30,2.00E-28,3,4,4,4,5,1
+N-glycan levels.txt,37.7,1.10E-30,2.00E-28,3,1,1,2,2,1
+Urate levels in obese individuals.txt,37.7,1.10E-30,2.00E-28,3,4,4,3,3,1
+Carotid plaque burden smoking interaction.txt,37.5,1.60E-30,2.90E-28,0,1,1,1,1,1
+Optic nerve measurement disc area.txt,37.2,2.40E-30,4.40E-28,6,7,6,6,7,1
+Alzheimers disease.txt,37.2,2.50E-30,4.50E-28,4,4,4,4,4,1
+Acne severe.txt,37,4.10E-30,7.40E-28,2,2,2,2,2,1
+Beta-2 microglubulin plasma levels.txt,36.5,9.00E-30,1.50E-27,2,2,2,2,1,1
+Non-cardia gastric cancer.txt,36.5,1.00E-29,1.70E-27,1,2,2,1,1,1
+Serum albumin level.txt,36.5,1.00E-29,1.70E-27,1,1,1,1,1,1
+Chronic mucus hypersecretion.txt,36.4,1.10E-29,1.90E-27,1,1,1,0,1,1
+F-cell distribution.txt,36.4,1.20E-29,2.20E-27,0,0,0,0,0,1
+Anthropometric traits in newborns.txt,36,2.40E-29,4.10E-27,2,2,2,2,2,1
+Testicular germ cell tumor.txt,35.8,3.90E-29,6.60E-27,7,5,5,5,5,1
+HIV-1 control.txt,35.5,6.20E-29,1.00E-26,0,0,0,0,0,1
+Amyloid A serum levels.txt,35.5,6.90E-29,1.10E-26,1,1,1,1,1,1
+Pagets disease.txt,35.2,1.10E-28,1.80E-26,1,2,2,2,4,1
+Red blood cell count.txt,35.1,1.40E-28,2.30E-26,1,1,1,1,1,1
+Serum alpha1-antitrypsin levels.txt,35,1.60E-28,2.80E-26,0,0,0,0,0,1
+Parkinsons disease.txt,34.8,2.50E-28,4.10E-26,14,18,17,18,19,0
+Hemoglobin levels.txt,34.7,2.90E-28,4.70E-26,0,0,0,0,0,1
+Speech perception in dyslexia.txt,34.7,3.00E-28,4.90E-26,0,0,0,0,0,1
+Facial pigmentation.txt,34.2,7.00E-28,1.10E-25,0,0,0,0,0,1
+Hearing impairment.txt,34.1,9.20E-28,1.40E-25,2,2,2,2,2,1
+Mitral valve prolapse.txt,33.9,1.20E-27,1.90E-25,2,2,2,2,2,1
+Alcohol dependence.txt,33.8,1.60E-27,2.60E-25,2,1,1,1,1,1
+Puberty onset breast development.txt,33.7,1.90E-27,3.10E-25,1,1,1,1,1,1
+Systolic blood pressure.txt,33.3,4.10E-27,6.40E-25,11,11,11,10,11,0
+Uterine fibroids.txt,32.5,1.70E-26,2.70E-24,1,0,0,0,0,1
+UC Ulcerative colitis from AV.txt,32.4,1.90E-26,2.90E-24,25,23,23,24,24,0
+Corneal structure.txt,32.1,3.50E-26,5.40E-24,10,10,10,9,9,0
+Obstructive sleep apnea.txt,32.1,3.80E-26,5.80E-24,1,1,1,1,2,1
+Diabetic retinopathy in type 2 diabetes.txt,32,4.10E-26,6.20E-24,1,1,1,1,1,1
+Hypertriglyceridemia.txt,31.9,5.10E-26,7.70E-24,0,1,1,0,1,1
+Febrile seizures MMR vaccine-unrelated.txt,31.8,6.10E-26,9.20E-24,0,0,0,0,0,1
+Tetralogy of Fallot.txt,31.6,9.50E-26,1.40E-23,1,1,1,1,1,1
+ATD Autoimmune thyroid disease from AV.txt,31.5,1.10E-25,1.70E-23,2,2,2,3,2,1
+Aging time to death.txt,31.1,2.40E-25,3.60E-23,2,3,3,3,3,1
+Metabolic traits.txt,31.1,2.50E-25,3.70E-23,7,7,6,8,7,1
+Alcohol consumption.txt,31,2.80E-25,4.00E-23,1,0,1,1,1,1
+Cerebrospinal fluid levels of Alzheimers disease-related proteins.txt,30.9,3.30E-25,4.80E-23,1,1,1,0,1,1
+Major depressive disorder broad.txt,30.9,3.30E-25,4.80E-23,3,3,3,3,3,1
+Stroke.txt,30.8,4.30E-25,6.20E-23,4,6,5,5,5,1
+Disease-free survival in breast cancer.txt,30.8,4.40E-25,6.30E-23,0,0,1,0,0,1
+White blood cell types.txt,30.6,6.30E-25,8.90E-23,4,4,4,4,4,1
+Cervical artery dissection.txt,30.5,6.80E-25,9.40E-23,3,2,2,2,1,1
+Body mass lean.txt,30.5,7.50E-25,1.00E-22,0,0,0,0,0,1
+Opioid sensitivity.txt,30.1,1.40E-24,1.90E-22,0,1,1,1,1,1
+Chronic lymphocytic leukemia.txt,30,1.90E-24,2.70E-22,7,9,8,8,7,1
+Barretts esophagus.txt,29.8,2.50E-24,3.40E-22,3,3,3,4,4,1
+Venous thromboembolism.txt,29.7,3.30E-24,4.40E-22,4,4,4,4,5,1
+Anger.txt,29.5,5.00E-24,6.60E-22,2,3,4,4,3,1
+Non-alcoholic fatty liver disease histology AST.txt,29.4,5.50E-24,7.20E-22,0,0,0,0,0,1
+Testicular germ cell cancer.txt,29,1.10E-23,1.50E-21,1,1,1,1,1,1
+Allergic rhinitis in non-asthmatics.txt,28.8,1.90E-23,2.50E-21,2,2,1,2,1,1
+Behavioural disinhibition generation interaction.txt,28.7,2.30E-23,2.90E-21,2,2,2,2,3,1
+Coagulation factor levels.txt,28.4,3.40E-23,4.40E-21,0,0,0,0,0,1
+Food antigen IgG levels.txt,28,8.40E-23,1.00E-20,1,1,1,1,1,1
+Metabolic syndrome.txt,27.8,1.10E-22,1.40E-20,6,6,6,6,6,1
+Corneal curvature.txt,27.7,1.40E-22,1.80E-20,5,8,7,7,6,1
+PSCh Primary sclerosing cholangitis from AV.txt,27.7,1.50E-22,1.80E-20,7,8,7,7,7,1
+Osteoarthritis.txt,27.6,1.70E-22,2.10E-20,2,3,3,2,3,1
+Hepatocellular carcinoma.txt,27.5,1.90E-22,2.40E-20,4,3,3,3,3,1
+Pancreatic cancer.txt,27.5,1.90E-22,2.30E-20,13,12,12,14,11,0
+HIV-1 viral setpoint.txt,27.5,2.10E-22,2.50E-20,2,4,3,3,3,1
+Postprandial triglyceride response to high fat diet meal.txt,27.4,2.40E-22,2.80E-20,2,3,3,3,2,1
+Migraine.txt,27.3,3.10E-22,3.70E-20,5,7,6,7,6,1
+Type 1 diabetes nephropathy.txt,27.3,3.20E-22,3.70E-20,4,5,5,5,5,1
+Renal function-related traits sCR.txt,27.1,4.40E-22,5.10E-20,1,2,1,1,1,1
+Sex hormone-binding globulin levels.txt,27,5.40E-22,6.30E-20,4,5,5,6,5,1
+Intracranial volume.txt,26.8,8.40E-22,9.60E-20,1,1,1,1,1,1
+Refractive error.txt,26.7,9.00E-22,1.00E-19,4,4,3,5,4,1
+Hip bone size.txt,26.6,1.10E-21,1.20E-19,2,2,2,2,2,1
+Heart rate.txt,26.5,1.40E-21,1.50E-19,8,9,10,9,10,0
+Social autistic-like traits.txt,26.5,1.40E-21,1.50E-19,2,2,2,2,2,1
+Fat distribution HIV.txt,26.2,2.50E-21,2.80E-19,2,2,2,2,1,1
+Coffee consumption.txt,26.1,3.00E-21,3.30E-19,4,3,3,4,4,1
+Chronic bronchitis in chronic obstructive pulmonary disease.txt,26,3.20E-21,3.50E-19,0,0,0,0,0,1
+Magnesium levels.txt,25.9,3.80E-21,4.00E-19,3,3,3,3,5,1
+Facial morphology.txt,25.9,3.90E-21,4.10E-19,1,1,1,1,1,1
+Wegeners granulomatosis.txt,25.8,5.20E-21,5.40E-19,0,0,0,1,0,1
+Monocyte early outgrowth colony forming units.txt,25.7,6.60E-21,6.80E-19,1,1,1,1,1,1
+Non-word repetition.txt,25.5,9.60E-21,9.80E-19,2,2,2,2,2,1
+Periodontitis Mean PAL.txt,25.4,1.10E-20,1.10E-18,16,16,16,16,15,0
+Callous-unemotional behaviour.txt,25.2,1.50E-20,1.50E-18,1,1,0,0,0,1
+Mean platelet volume.txt,25,2.30E-20,2.30E-18,17,14,15,15,16,0
+Neuroticism.txt,24.7,3.70E-20,3.70E-18,6,5,5,5,6,1
+Freckling.txt,24.7,4.10E-20,4.00E-18,0,0,0,0,0,1
+Gastric adenocarcinoma histologically verified.txt,24.4,6.60E-20,6.40E-18,0,0,0,0,0,1
+HDL Cholesterol - Triglycerides HDLC-TG.txt,24.3,7.90E-20,7.50E-18,0,0,1,0,0,1
+IgE grass sensitization.txt,24,1.50E-19,1.40E-17,3,2,2,3,3,1
+Intracranial aneurysm.txt,23.8,2.20E-19,2.00E-17,3,4,4,4,3,1
+Staphylococcus aureus infection.txt,23.8,2.20E-19,2.00E-17,0,0,0,0,0,1
+HIV-1 susceptibility.txt,23.7,2.90E-19,2.60E-17,0,1,0,1,0,1
+Phosphorus levels.txt,23.6,3.00E-19,2.70E-17,0,0,0,0,0,1
+IgG glycosylation.txt,23.5,3.70E-19,3.30E-17,21,23,23,23,22.5,0
+Mean arterial pressure alcohol consumption interaction.txt,23.5,3.70E-19,3.30E-17,0,0,0,0,0,1
+Ticagrelor levels in individuals with acute coronary syndromes treated with ticagrelor.txt,23.4,5.00E-19,4.40E-17,6,6,6,6,6,1
+Circulating phylloquinone levels.txt,23.3,5.20E-19,4.50E-17,0,1,0,1,0,1
+Diffuse large B cell lymphoma.txt,23.2,7.10E-19,6.00E-17,2,2,2,2,2,1
+Diastolic blood pressure alcohol consumption interaction.txt,23.1,7.40E-19,6.20E-17,1,0,1,0,1,1
+Plasma renin activity levels.txt,23,1.00E-18,8.50E-17,2,2,2,3,2,1
+Matrix metalloproteinase levels.txt,22.7,1.70E-18,1.40E-16,1,0,1,1,1,1
+Chronic obstructive pulmonary disease severe.txt,22.6,1.90E-18,1.50E-16,1,2,1,1,1,1
+Suicide behavior.txt,22.6,2.00E-18,1.60E-16,1,2,2,1,2,1
+White wine liking.txt,21.8,8.70E-18,6.90E-16,0,0,0,0,0,1
+Alzheimers disease late onset.txt,21.7,1.10E-17,9.30E-16,11,8,8,7,10,1
+Iron status biomarkers iron levels.txt,21.4,1.90E-17,1.50E-15,2,2,3,2,3,1
+Fasting insulin interaction.txt,21.4,2.20E-17,1.60E-15,2,3,3,3,3,1
+"Breast cancer estrogen-receptor negative, progesterone-receptor negative, and human epidermal growth factor-receptor negative.txt",21,4.10E-17,3.00E-15,0,0,0,0,0,1
+Ulcerative colitis.txt,20.8,6.30E-17,4.70E-15,48,53,51,52,48,0
+Attention deficit hyperactivity disorder combined symptoms.txt,20.5,1.10E-16,8.20E-15,12,12,12,13,14,0
+Childhood and early adolescence aggressive behavior.txt,20.1,2.20E-16,1.60E-14,0,0,0,0,0,1
+Androgen levels.txt,20,3.10E-16,2.20E-14,2,2,2,2,2,1
+Nephrotic syndrome acquired.txt,19.7,4.90E-16,3.40E-14,0,0,0,0,0,1
+Medication adherence in chronic diseases.txt,19.7,5.40E-16,3.70E-14,0,0,0,0,0,1
+Interferon alpha levels in systemic lupus erythematosus.txt,19.7,5.50E-16,3.70E-14,0,0,0,0,0,1
+Myasthenia gravis.txt,19,1.80E-15,1.20E-13,1,1,1,1,1,1
+Homeostasis model assessment of insulin resistance interaction.txt,18.9,2.30E-15,1.50E-13,3,4,3,3,3,1
+Serum prostate-specific antigen levels.txt,18.7,3.50E-15,2.30E-13,4,4,4,4,4,1
+Bone mineral density spine.txt,18.1,1.00E-14,6.90E-13,9,9,9,9,11,0
+Vitamin E levels.txt,18,1.20E-14,7.60E-13,0,0,0,0,0,1
+Molar-incisor hypomineralization.txt,17.9,1.50E-14,9.70E-13,1,1,0,0,0,1
+Red blood cell traits.txt,17.6,2.60E-14,1.60E-12,10,10,10,9,9,0
+Vascular endothelial growth factor levels.txt,17.6,2.60E-14,1.50E-12,0,1,1,1,1,1
+Gait variability.txt,17.6,2.80E-14,1.60E-12,1,1,1,1,0,1
+Monocyte count.txt,17,7.90E-14,4.60E-12,1,1,1,1,0,1
+Telomere length.txt,16.8,1.20E-13,7.30E-12,2,3,3,3,3,1
+Tandem gait.txt,16.3,3.30E-13,1.90E-11,2,2,2,2,2,1
+Illicit drug use.txt,16.3,3.40E-13,1.90E-11,2,1,1,2,1,1
+Trichloroethylene-induced hypersensitivity syndrome.txt,16,5.90E-13,3.20E-11,0,0,0,0,0,1
+Alzheimers disease APOE e4 interaction.txt,15.9,6.10E-13,3.20E-11,0,1,1,1,1,1
+Refractive astigmatism.txt,15.8,7.80E-13,4.00E-11,5,5,5,5,4,1
+CD Crohn's disease from AV.txt,15.8,7.90E-13,4.00E-11,28,27,28,28,28,0
+Asthma sex interaction.txt,15.7,9.20E-13,4.60E-11,0,2,1,1,1,1
+Nevirapine-induced rash.txt,15.5,1.30E-12,6.40E-11,0,0,0,0,0,1
+Optic nerve measurement cup-to-disc ratio.txt,15.2,2.60E-12,1.20E-10,1,1,1,1,1,1
+Waist-to-hip circumference ratio interaction.txt,15.2,2.60E-12,1.20E-10,3,3,3,3,3,1
+Follicular lymphoma.txt,15.1,3.20E-12,1.40E-10,0,0,0,0,0,1
+Plasma thyroid-stimulating hormone levels.txt,14.9,4.20E-12,1.90E-10,0,0,1,0,1,1
+Hypospadias.txt,14.9,4.80E-12,2.10E-10,3,3,3,3,2,1
+Gait rhythm.txt,14.8,5.40E-12,2.30E-10,1,1,1,1,0,1
+Febrile seizures.txt,14.7,6.80E-12,2.80E-10,3,3,3,3,3,1
+Helicobacter pylori serologic status.txt,14.2,1.70E-11,7.10E-10,1,0,0,1,1,1
+Febrile seizures MMR vaccine-related.txt,14.2,1.80E-11,7.20E-10,5,5,5,5,4,1
+Ankylosing spondylitis.txt,13.8,3.20E-11,1.20E-09,6,6,6,7,6,1
+Trans fatty acid levels.txt,13.1,1.40E-10,5.40E-09,53,53,53,54,52.5,0
+Iron status biomarkers transferrin saturation.txt,12.4,5.40E-10,2.00E-08,2,2,3,2,3,1
+Creatinine levels.txt,12.3,6.40E-10,2.30E-08,0,0,0,0,0,1
+Liver enzyme levels alkaline phosphatase.txt,12.2,6.80E-10,2.40E-08,1,1,1,1,1,1
+Suicidal ideation in depression or bipolar disorder.txt,12,9.80E-10,3.30E-08,1,1,1,1,1,1
+Hair morphology.txt,11.7,1.80E-09,6.10E-08,6,4,5,4,6,1
+Intracerebral hemorrhage.txt,11.7,1.90E-09,6.10E-08,2,1,1,1,1,1
+Warfarin maintenance dose.txt,11.5,2.70E-09,8.40E-08,4,4,4,3,3,1
+Iris characteristics.txt,11,7.30E-09,2.20E-07,4,4,4,4,4,1
+Tuberculosis.txt,10.9,8.10E-09,2.30E-07,2,2,2,1,1,1
+Suicide.txt,10.8,9.20E-09,2.50E-07,1,1,1,1,1,1
+Periodontal microbiota.txt,10.7,1.20E-08,3.20E-07,3,3,4,4,4,1
+Maximal oxygen uptake response.txt,10.6,1.50E-08,4.00E-07,0,0,0,0,0,1
+Vein graft stenosis in coronary artery bypass grafting.txt,10.4,2.20E-08,5.60E-07,0,0,0,0,0,1
+Acute urticaria and angioedema non-steroidal anti-inflammatory drug-induced.txt,10.2,2.90E-08,7.00E-07,0,0,0,0,0,1
+Bipolar disorder with mood-incongruent psychosis.txt,10.1,3.90E-08,9.10E-07,1,1,1,0,0,1
+Hormone measurements.txt,9,2.70E-07,6.00E-06,0,1,1,0,0,1
+Sporadic pituitary adenoma.txt,8.4,9.80E-07,2.00E-05,0,0,0,0,0,1
+Birdshot chorioretinopathy.txt,8.2,1.20E-06,2.50E-05,0,0,0,0,0,1
+Platelet aggregation.txt,7.9,2.10E-06,4.00E-05,3,2,2,2,2,1
+Diabetic nephropathy in type 1 diabetes.txt,7.9,2.40E-06,4.40E-05,1,1,1,1,2,1
+Sleep depth.txt,7.6,3.70E-06,6.30E-05,1,1,1,1,1,1
+Attention deficit hyperactivity disorder hyperactivity-impulsivity symptoms.txt,7.4,6.10E-06,9.70E-05,11,9,10,9,11,0
+Serum protein levels sST2.txt,7.3,7.20E-06,0,0,2,2,2,2,1
+Atrioventricular conduction.txt,6.6,2.60E-05,0,1,1,1,1,2,1
+Liver enzyme levels gamma-glutamyl transferase.txt,6.3,4.10E-05,0,8,8,7,8,8,1
+Carotid atherosclerosis in HIV infection.txt,5.9,8.50E-05,0.001,1,1,0,1,1,1
+Coronary artery calcification.txt,4.6,0.001,0.006,37,34,35,35,35,0
+Atopic dermatitis.txt,4.2,0.002,0.01,9,9,10,9,10,0
+Duodenal ulcer.txt,4.1,0.002,0.01,1,1,1,1,1,1
+Thyroid volume.txt,4.1,0.002,0.01,1,1,1,1,1,1
+Diastolic blood pressure.txt,2.5,0.04,0.08,12,11,10,11,10,0
+Pyoderma gangrenosum in inflammatory bowel disease.txt,2.3,0.052,0.08,1,0,0,0,0,1
+Menopause age at onset.txt,498.8,1.7e-316,1.4e-313,6,6,6,5,6,1
+Migraine with aura.txt,487.7,4.0e-311,3.30E-308,3,1,1,2,2,1
+Corneal astigmatism.txt,510.2,5.6e-324,4.6e-319,6,6,6,5,4,1
+Conduct disorder symptom count.txt,491.4,6.4e-313,5.2e-310,2,1,1,1,1,1
+Longevity 90 years and older.txt,507.7,9.4e-321,7.7e-318,6,4,4,5,4,1

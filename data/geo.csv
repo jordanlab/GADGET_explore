@@ -1,0 +1,27 @@
+lat,lng,description,SUP,POP,nSample,FULL
+6.519676,3.390805,Esan in Nigeria,AFR,ESN,99,African
+13.454702,-16.57539,Gambian in Western Divisions in the Gambia,AFR,GWD,113,African
+0.59669,34.777997,"Luhya in Webuye, Kenya",AFR,LWK,99,African
+8.131442,-10.717185,Mende in Sierra Leone,AFR,MSL,85,African
+7.445455,3.897853,"Yoruba in Ibadan, Nigeria",AFR,YRI,108,African
+13.177086,-59.557882,African Caribbeans in Barbados,AFR,ACB,96,African
+34.595395,-98.427451,Americans of African Ancestry in SW USA,AFR,ASW,61,African
+6.246933,-75.566964,"Colombians from Medellin, Colombia",AMR,CLM,94,Admixed American
+18.116323,-98.156652,Mexican Ancestry from Los Angeles USA,AMR,MXL,64,Admixed American
+-12.043165,-77.044491,"Peruvians from Lima, Peru",AMR,PEL,85,Admixed American
+18.405619,-66.054948,Puerto Ricans from Puerto Rico,AMR,PUR,104,Admixed American
+21.981957,100.806419,"Chinese Dai in Xishuangbanna, China",EAS,CDX,93,East Asian
+39.904571,116.397657,"Han Chinese in Bejing, China",EAS,CHB,103,East Asian
+23.124104,113.262798,Southern Han Chinese,EAS,CHS,105,East Asian
+35.684986,139.75283,"Japanese in Tokyo, Japan",EAS,JPT,104,East Asian
+10.815849,106.627238,"Kinh in Ho Chi Minh City, Vietnam",EAS,KHV,99,East Asian
+48.863355,2.344466,Utah Residents (CEPH) with Northern and Western Ancestry,EUR,CEU,99,European
+60.184763,24.951,Finnish in Finland,EUR,FIN,99,European
+51.749115,-1.257003,British in England and Scotland,EUR,GBR,91,European
+40.414242,-3.709693,Iberian Population in Spain,EUR,IBS,107,European
+43.762618,11.250931,Toscani in Italia,EUR,TSI,107,European
+24.515772,90.299035,Bengali from Bangladesh,SAS,BEB,86,Southeast Asian
+23.006131,72.601253,"Gujarati Indian from Houston, Texas",SAS,GIH,103,Southeast Asian
+12.969761,77.593382,Indian Telugu from the UK,SAS,ITU,102,Southeast Asian
+31.557998,74.359919,"Punjabi from Lahore, Pakistan",SAS,PJL,96,Southeast Asian
+6.921244,79.866513,Sri Lankan Tamil from the UK,SAS,STU,102,Southeast Asian
